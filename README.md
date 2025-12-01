@@ -18,15 +18,15 @@ graph. Proyek harus mencakup fungsi dasar seperti penambahan data, penghapusan, 
 dan menampilkan data.
 
 ## Rincian Pengerjaan Tugas
-• Struktur Data:
+* Struktur Data:
 Mahasiswa wajib menggunakan struktur data yang sesuai dengan kebutuhan proyek.
 Setiap fungsi harus diimplementasikan dengan efisien dan menggunakan konsep
 struktur data yang tepat.
-• Fitur Wajib:
-1. Menambah data.
-2. Menghapus data.
-3. Mencari data.
-4. Menampilkan data secara terstruktur.
+* Fitur Wajib:
+  1. Menambah data.
+  2. Menghapus data.
+  3. Mencari data.
+  4. Menampilkan data secara terstruktur.
    
 ## Dokumentasi:
 1. Jelaskan topik yang dipilih, struktur data yang digunakan, dan alasan memilihnya.
@@ -36,22 +36,21 @@ struktur data yang tepat.
 1. Pemahaman Konsep (20%)
    - Struktur data yang dipilih sesuai dengan masalah.
    - Penjelasan fungsi dalam kode.
-2. Implementasi dan Kualitas Kode (40%) o
+2. Implementasi dan Kualitas Kode (40%) 
    - Program berjalan sesuai spesifikasi.
    - Kode rapi dan sesuai standar pemrograman.
 3. Fungsionalitas Aplikasi (30%)
    - Aplikasi memiliki fitur lengkap sesuai deskripsi topik.
    - Dapat menangani berbagai masukan pengguna, termasuk masukan tidak valid.
-4. Dokumentasi dan Presentasi (10%) o
-   
-## Kelengkapan dokumentasi:
-1) Makalah Lengkap
-2) PPT
-3) Luaran dalam format jurnal (ringkasan)
+4. Dokumentasi dan Presentasi (10%)
+   - Kelengkapan dokumentasi:
+        1) Makalah Lengkap
+        2) PPT
+        3) Luaran dalam format jurnal (ringkasan)
    - Kemampuan menjelaskan proyek dalam presentasi.
 
 ## Batasan dan Catatan Penting:
-• Kelompok: Masing-masing kelompok terdiri dari 3-4 orang.
-• Durasi Proyek: 4 minggu.
-• Bahasa Pemrograman: C, berbasis teks.
-• Originalitas: Plagiarisme tidak diperbolehkan; setiap proyek harus dibuat dari nol dengan kreativitas mahasiswa.
+* Kelompok: Masing-masing kelompok terdiri dari 3-4 orang.
+* Durasi Proyek: 4 minggu.
+* Bahasa Pemrograman: C, berbasis teks.
+* Originalitas: Plagiarisme tidak diperbolehkan; setiap proyek harus dibuat dari nol dengan kreativitas mahasiswa.
